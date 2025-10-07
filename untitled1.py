@@ -8,7 +8,8 @@ Original file is located at
 """
 
 # Install libraries
-!pip install numpy pandas matplotlib scikit-learn tensorflow torch astroML
+pip install numpy pandas matplotlib scikit-learn tensorflow torch astroML streamlit
+
 
 from google.colab import drive
 drive.mount('/content/drive')
