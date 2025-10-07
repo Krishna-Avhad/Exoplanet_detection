@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rl0N19oHE_x7uU4SyoPV9LN6u1Afy_ot
 """
 
-# Install libraries
-pip install numpy pandas matplotlib scikit-learn tensorflow torch astroML streamlit
+
 
 
 from google.colab import drive
